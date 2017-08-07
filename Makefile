@@ -1,9 +1,6 @@
 #
 # Makefile
 #
-# Computer Science 50
-# Problem Set 6
-#
 
 
 # compiler to use
